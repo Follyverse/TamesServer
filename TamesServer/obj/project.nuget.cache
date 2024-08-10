@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mDkmh6psZCYDydgAf+X8JCL4JmtCHw7fkwpmS/eM5DDJvWPWyvaQK1+30KfCnWCSAM2AM9VD+9LTb7rMZq2Brg==",
+  "success": true,
+  "projectFilePath": "D:\\Mine\\CS\\TamesServer\\TamesServer\\TamesServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cocoa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Cocoa\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Cocoa\\.nuget\\packages\\system.text.json\\8.0.3\\system.text.json.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
